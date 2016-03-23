@@ -1,0 +1,28 @@
+name: RheaPappas
+favicon: null
+layout_spectrum: 0.3138965682592243
+typography_spectrum: 0.5780381148215383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.029416697565466166
+  lightness: 0.3075001551769674
+  saturation: 0.145058041671291
+  rhythmicContrast: 0.3369789083953947
+purpose: []
